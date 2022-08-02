@@ -1,6 +1,7 @@
 ### Hi there, I'm Larissa Santesso! 👋
-
-
+- 🔭 I’m currently developing skills in Deep Learning focusing on Computer Vision tasks
+- 👯 I’m looking to collaborate on Machine Learning/Deep Learning projects
+- 😄 Pronouns: She/Her
 
 <!--
 **larissasantesso/larissasantesso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
